@@ -20,14 +20,14 @@ Welcome to the **Extreme Colorful Events** project! This project is designed to 
 - Contact form for inquiries.
 
 ## 🌐 Live Demo
-Check out our live demo: [Extreme Colorful Events Demo](https://your-live-demo-link.com) 🌟  
+Check out our live demo: [Extreme Colorful Events Demo](https://babureddynr.github.io/extremecolourfulevents/) 🌟  
 *Feel free to explore the website and experience our services!*
 
 
 ## 📷 Screenshots
 Here are some screenshots of our website:
 
-![Hero Section](screenshot-hero.png)
+![Hero Section](https://github.com/babureddynr/extremecolourfulevents/blob/main/website%20scrreenshot.png)
 *Hero Section: Creating Extraordinary Events*
 
 ## 📥 Installation
