@@ -23,6 +23,13 @@ Welcome to the **Extreme Colorful Events** project! This project is designed to 
 Check out our live demo: [Extreme Colorful Events Demo](https://your-live-demo-link.com) 🌟  
 *Feel free to explore the website and experience our services!*
 
+
+## 📷 Screenshots
+Here are some screenshots of our website:
+
+![Hero Section](screenshot-hero.png)
+*Hero Section: Creating Extraordinary Events*
+
 ## 📥 Installation
 
 To set up the project locally, follow these steps:
